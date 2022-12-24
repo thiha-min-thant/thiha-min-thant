@@ -1,6 +1,6 @@
-<h1>👋 Hi, I'm Thiha 👨‍💻</h1>
+<h1>👋 Hi, I'm Thiha 👨‍💻🇲🇲🇸🇬</h1>
 
-<p>Hi there! I'm a software developer 💻 with a passion for building useful and innovative applications.</p>
+<p>Hi there! I'm a software engineer 💻 from Myanmar 🇲🇲 and currently living in Singapore 🇸🇬 with a passion for building useful and innovative applications.</p>
 
 <h2>Currently learning... 🌱</h2>
 
