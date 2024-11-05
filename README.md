@@ -63,3 +63,12 @@
 <a href="https://www.linkedin.com/in/thiha-min-thant-775733154/" target="blank">    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </p>
+
+<a href="https://www.credly.com/badges/8a8f750e-16c7-4418-97c0-8e6c653cad99/public_url" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://github.com/user-attachments/assets/0965420d-e3b3-45f8-80fe-e910f761dff5" alt="KCNA: Kubernetes and Cloud Native Associate" width="10%" height="" /></a>
+<a href="https://www.credly.com/badges/d0be7960-0a4a-4c63-aea3-a3bb7ae7026f/public_url" title="KCSA: Kubernetes and Cloud Native Security Associate"><img src="https://github.com/user-attachments/assets/2d6e5f68-9244-4fa9-a334-e4712e1a80da" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="10%" height="" /></a>
+<a href="https://www.credly.com/badges/c92edea3-5715-4b9c-803d-c75980356766/public_url" title="CKAD: Certified Kubernetes Application Developer"><img src="https://github.com/user-attachments/assets/dc18d290-c108-4883-ac7d-8da0e00eccd4" alt="CKAD: Certified Kubernetes Application Developer" width="10%" height="" /></a>
+<a href="https://www.credly.com/badges/2294a1e6-b27b-46b3-9c16-18cbc1e7ac6e/public_url" title="CKA: Certified Kubernetes Administrator"><img src="https://github.com/user-attachments/assets/e70ae9dc-98e2-46b6-84d5-46ed8e1917d8" alt="CKA: Certified Kubernetes Administrator" width="10%" height="" /></a>
+
+
+
+[![An image of @thihaminthant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thihaminthant)](https://holopin.io/@thihaminthant)
